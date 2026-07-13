@@ -1,87 +1,151 @@
-# Hi 👋, I'm Leela Manas Jagannath
+<div align="center">
 
-### Python Full Stack Developer | Problem Solver | Open Source Enthusiast
+# 👋 Hi, I'm Manas
 
-I'm passionate about building scalable web applications using Python and modern web technologies. I enjoy solving real-world problems, learning new technologies, and contributing to open-source projects.
+### Python Full Stack Developer • Backend Engineer • AI Enthusiast
+
+Building scalable backend systems, intelligent applications and clean user experiences.
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Python+Developer;Full+Stack+Engineer;FastAPI+%7C+Django+%7C+React;Always+Learning+New+Technologies"/>
+
+</div>
 
 ---
 
-## 🚀 Tech Stack
+# 💫 About Me
+
+💻 Passionate about designing scalable applications.
+
+⚡ I enjoy building APIs, backend architectures and AI-powered solutions.
+
+🚀 Constantly learning new technologies and improving software engineering skills.
+
+🎯 Goal: Build products that solve real-world problems.
+
+---
+
+# 🛠 Tech Stack
 
 ### Languages
-- Python
-- JavaScript
-- HTML
-- CSS
-- SQL
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,mysql"/>
+</p>
 
 ### Backend
-- Django
-- Flask
-- FastAPI
-- REST APIs
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,flask,fastapi,nodejs"/>
+</p>
 
 ### Frontend
-- React.js
-- Bootstrap
-- Tailwind CSS
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap"/>
+</p>
 
 ### Database
-- PostgreSQL
-- MySQL
-- MongoDB
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql"/>
+</p>
 
 ### Tools
-- Git
-- GitHub
-- Docker
-- VS Code
-- Postman
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman"/>
+</p>
 
 ---
 
-## 🌱 Currently Learning
+# 🚀 Featured Projects
 
-- System Design
-- Docker & Kubernetes
-- AWS
-- Microservices
+## 🧠 Edunet AI Study Buddy
 
----
+AI-powered learning assistant built to help students learn smarter.
 
-## 📌 Featured Projects
+### Highlights
 
-### 🔹 Project 1
-Description of your project.
-
-### 🔹 Project 2
-Description of your project.
-
-### 🔹 Project 3
-Description of your project.
+- AI Assistance
+- Smart Learning
+- Python Backend
+- Modern Architecture
 
 ---
 
-## 📈 GitHub Stats
+## ⚙ SmartHub Server
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+Robust backend server powering scalable applications.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+### Features
 
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
-
----
-
-## 📫 Connect With Me
-
-- LinkedIn: https://linkedin.com/in/YOUR_USERNAME
-- Portfolio: https://YOUR_PORTFOLIO.com
-- Email: yourmail@example.com
+- REST APIs
+- Authentication
+- Database Integration
+- Clean Architecture
 
 ---
 
-⭐ Thanks for visiting my profile!
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🌐 Connect
+
+<p align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code. Learn. Build. Repeat."*
+
+</div>
