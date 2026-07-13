@@ -1,4 +1,4 @@
-# Hi 👋, I'm [Your Name]
+# Hi 👋, I'm Leela Manas Jagannath
 
 ### Python Full Stack Developer | Problem Solver | Open Source Enthusiast
 
