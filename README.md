@@ -1,9 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,25:3B82F6,60:8B5CF6,100:06B6D4&height=300&section=header&text=Sita%20Leela%20Manas%20Jagannath&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=34&desc=Software%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20Full-Stack%20Builder&descAlignY=54&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,25:3B82F6,60:8B5CF6,100:06B6D4&height=280&section=header&text=Sita%20Leela%20Manas%20Jagannath&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20Full-Stack%20Builder&descAlignY=52&descSize=17" width="100%"/>
+
+<img src="https://github.com/slmanasjagannath.png" width="120" style="border-radius:50%;" alt="avatar"/>
 
 <a href="https://github.com/slmanasjagannath">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=25&duration=2800&pause=900&color=8B5CF6&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=920&height=100&lines=Engineering+full-stack+apps+with+React+%2B+Spring+Boot+%F0%9F%9A%80;Building+ML+models+that+turn+data+into+decisions+%F0%9F%A7%A0;Python+%C2%B7+Java+%C2%B7+C%2B%2B+%C2%B7+SQL+%C2%B7+React+%C2%B7+Node.js;Open+to+Software+Engineer+%2F+Data+Analyst+roles+%F0%9F%93%A9" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=8B5CF6&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=920&height=100&lines=Engineering+full-stack+apps+with+React+%2B+Spring+Boot+%F0%9F%9A%80;Building+ML+models+that+turn+data+into+decisions+%F0%9F%A7%A0;Python+%C2%B7+Java+%C2%B7+C%2B%2B+%C2%B7+SQL+%C2%B7+React+%C2%B7+Node.js;Open+to+Software+Engineer+%2F+Data+Analyst+roles+%F0%9F%93%A9" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -14,6 +16,14 @@
 
 <br/><br/>
 
+<a href="#-about-me">About</a> •
+<a href="#-tech-stack">Tech Stack</a> •
+<a href="#-featured-projects">Projects</a> •
+<a href="#-github-dashboard">Dashboard</a> •
+<a href="#-connect-with-me">Contact</a>
+
+<br/><br/>
+
 <img src="https://komarev.com/ghpvc/?username=slmanasjagannath&style=for-the-badge&color=8b5cf6&labelColor=0D1117&label=PROFILE+VIEWS" alt="visitor counter"/>
 
 <br/>
@@ -21,7 +31,7 @@
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,50:8B5CF6,100:06B6D4&height=3">
 
 <table width="100%">
 <tr>
@@ -62,13 +72,13 @@ developer:
 
 <br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="90%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="88%"/>
 
 </td>
 </tr>
 </table>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,50:8B5CF6,100:06B6D4&height=3">
 
 ## 🎯 Current Focus
 
@@ -82,7 +92,7 @@ developer:
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,50:8B5CF6,100:06B6D4&height=3">
 
 ## 🛠️ Tech Stack
 
@@ -123,7 +133,22 @@ developer:
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
+<br/>
+
+### 📈 Proficiency
+
+<div align="center">
+
+**Python** &nbsp;<img src="https://progress-bar.xyz/90/?title=&width=350&color=3B82F6&suffix=%25"/><br/>
+**Java** &nbsp;&nbsp;&nbsp;<img src="https://progress-bar.xyz/80/?title=&width=350&color=8B5CF6&suffix=%25"/><br/>
+**React** &nbsp;&nbsp;<img src="https://progress-bar.xyz/85/?title=&width=350&color=06B6D4&suffix=%25"/><br/>
+**Spring Boot** <img src="https://progress-bar.xyz/78/?title=&width=350&color=3B82F6&suffix=%25"/><br/>
+**SQL** &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://progress-bar.xyz/82/?title=&width=350&color=8B5CF6&suffix=%25"/><br/>
+**Power BI / Tableau** <img src="https://progress-bar.xyz/75/?title=&width=350&color=06B6D4&suffix=%25"/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,50:8B5CF6,100:06B6D4&height=3">
 
 ## 💡 Professional Skills
 
@@ -140,7 +165,7 @@ developer:
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,50:8B5CF6,100:06B6D4&height=3">
 
 ## 🚀 Featured Projects
 
@@ -230,7 +255,7 @@ developer:
 </tr>
 </table>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,50:8B5CF6,100:06B6D4&height=3">
 
 ## 🏆 Achievements
 
@@ -253,7 +278,7 @@ developer:
 </tr>
 </table>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,50:8B5CF6,100:06B6D4&height=3">
 
 ## 📜 Certifications
 
@@ -269,7 +294,7 @@ developer:
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,50:8B5CF6,100:06B6D4&height=3">
 
 ## 🎓 Education Timeline
 
@@ -291,7 +316,7 @@ developer:
     Secondary School (Class X) — CGPA: 10/10
 ```
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,50:8B5CF6,100:06B6D4&height=3">
 
 ## 📊 GitHub Dashboard
 
@@ -329,7 +354,7 @@ developer:
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,50:8B5CF6,100:06B6D4&height=3">
 
 ## 💬 Developer Quote
 
@@ -337,7 +362,7 @@ developer:
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,50:8B5CF6,100:06B6D4&height=3">
 
 ## 🎲 Fun Facts
 
@@ -348,7 +373,7 @@ developer:
 - 🎯 I read certification syllabi the way most people read novels
 - 🧠 Logistic Regression was my gateway drug into machine learning
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,50:8B5CF6,100:06B6D4&height=3">
 
 ## 📘 Currently Learning
 
@@ -361,7 +386,7 @@ developer:
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,50:8B5CF6,100:06B6D4&height=3">
 
 ## 🎯 2026 Goals
 
@@ -371,7 +396,7 @@ developer:
 - [ ] Earn an AWS Cloud Practitioner (or Associate) certification
 - [ ] Graduate B.Tech with distinction — target CGPA 9.0+
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,50:8B5CF6,100:06B6D4&height=3">
 
 ## 🤝 Connect With Me
 
@@ -390,8 +415,7 @@ developer:
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:8B5CF6,100:3B82F6&height=160&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:8B5CF6,100:3B82F6&height=150&section=footer&animation=twinkling" width="100%"/>
 
 **⭐ Thanks for stopping by — let's build something great together!**
 </div>
-
