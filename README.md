@@ -1,162 +1,161 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:8B5CF6,100:06B6D4&height=280&section=header&text=Sita%20Leela%20Manas%20Jagannath&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Data%20Scientist%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,25:3B82F6,60:8B5CF6,100:06B6D4&height=300&section=header&text=Sita%20Leela%20Manas%20Jagannath&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20Full-Stack%20Builder&descAlignY=54&descSize=19" width="100%"/>
+
+<a href="https://github.com/slmanasjagannath">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=25&duration=2800&pause=900&color=8B5CF6&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=920&height=100&lines=Engineering+full-stack+apps+with+React+%2B+Spring+Boot+%F0%9F%9A%80;Building+ML+models+that+turn+data+into+decisions+%F0%9F%A7%A0;Python+%C2%B7+Java+%C2%B7+C%2B%2B+%C2%B7+SQL+%C2%B7+React+%C2%B7+Node.js;Open+to+Software+Engineer+%2F+Data+Analyst+roles+%F0%9F%93%A9" alt="Typing SVG"/>
+</a>
 
 <br/>
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=3000&pause=900&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Building+scalable+full-stack+applications+%F0%9F%9A%80;Turning+data+into+decisions+%F0%9F%93%8A;Python+%7C+Java+%7C+React+%7C+Spring+Boot;Open+to+Software+Engineer+%2F+Data+Analyst+roles" alt="Typing SVG" />
-</a>
+<img src="https://img.shields.io/badge/-Hyderabad%2C%20India-0D1117?style=for-the-badge&logo=googlemaps&logoColor=06B6D4&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/-Graduating%202026-0D1117?style=for-the-badge&logo=graduation-cap&logoColor=8B5CF6&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/-CGPA%208.67-0D1117?style=for-the-badge&logo=star&logoColor=3B82F6&labelColor=0D1117"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Profile_Views-000000?style=for-the-badge&logo=github&logoColor=white&color=3B82F6" alt="visitor badge"/>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=8b5cf6&label=VISITORS" alt="visitor counter"/>
+<img src="https://komarev.com/ghpvc/?username=slmanasjagannath&style=for-the-badge&color=8b5cf6&labelColor=0D1117&label=PROFILE+VIEWS" alt="visitor counter"/>
 
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/coding.gif" width="380" alt="coding gif"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-7b7bfd5c-f427-4b57-9db8-c1eb1f27fce9.gif" width="420">
 </div>
-
-<h6 align="center">— replace the GIF path above with your own, e.g. an image hosted in this repo's <code>assets/</code> folder —</h6>
 
 <br/>
 
 ## 🧠 About Me
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/developer-illustration.svg" alt="developer illustration"/>
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
 
 ```yaml
-whoami:
+developer:
   name: "Sita Leela Manas Jagannath"
   location: "Hyderabad, Telangana, India"
-  role: "Computer Science (Data Science) Undergraduate"
-  graduating: 2026
+  degree: "B.Tech, Computer Science (Data Science)"
+  university: "Malla Reddy University"
+  graduation_year: 2026
+  cgpa: 8.67
   focus:
-    - Full-Stack Web Development
+    - Full-Stack Web Development (React · Node.js · Spring Boot)
     - Machine Learning & Predictive Modeling
-    - Data Analytics & Visualization
-  currently_seeking: "Software Engineer / Data Analyst Role"
-  fun_fact: "I enjoy turning messy data into clean, actionable dashboards."
+    - Data Analytics & Visualization (Power BI · Tableau)
+  seeking: "Software Engineer / Data Analyst Role"
+  contact:
+    email: "slmanasjagannath12@gmail.com"
+    phone: "+91 93917 30059"
+    linkedin: "linkedin.com/in/slmanasjagannath"
 ```
 
-- 🔭 Building full-stack applications with **React**, **Node.js**, and **Spring Boot**
-- 📊 Passionate about **data-driven decision making** using Power BI & Tableau
-- 🧩 Strong foundation in **Data Structures, Algorithms & OOP**
-- 🌱 Currently sharpening skills in **Machine Learning** and **Cloud Deployment**
-- 💬 Ask me about **React**, **Spring Boot**, **REST APIs**, or **Statistical Analysis**
-- ⚡ Believer in clean code, clean UI, and clean data
+- 🔭 Building production-style full-stack apps end-to-end — frontend, backend, database, deployment
+- 📊 Turning raw datasets into decisions using **Logistic Regression**, **Power BI** & **Tableau**
+- 🧩 Deep, practical grounding in **Data Structures, Algorithms & OOP**
+- 🌱 Currently deepening skills in **AWS**, **advanced ML pipelines**, and **system design**
+- 💬 Ask me about **React**, **Spring Boot**, **REST APIs**, **MongoDB**, or **regression models**
+- ⚡ Believer in clean code, clean UI, and clean data — in that order of visibility, never priority
 
 <br clear="right"/>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 🎯 Current Focus
 
 <div align="center">
 
-| 🚀 Building | 📚 Learning | 🤝 Collaborating On |
+| 🚀 Building Now | 📚 Learning Now | 🤝 Open To |
 |:---:|:---:|:---:|
-| Production-grade full-stack apps | Cloud-native deployment (AWS) | Open-source data tools |
-| ML-powered prediction systems | Advanced ML pipelines | React + Spring Boot projects |
+| Full-stack apps with React + Spring Boot | AWS cloud deployment & CI/CD | Software Engineer roles |
+| ML classification & regression models | Advanced ML pipelines & system design | Data Analyst roles |
+| Interactive Power BI / Tableau dashboards | Open-source contribution workflows | Collaborative dev projects |
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 🛠️ Tech Stack
 
-### Languages
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql" />
-</div>
 
-### Frontend
-<div align="center">
-<img src="https://skillicons.dev/icons?i=react,html,css,js" />
-</div>
-
-### Backend
-<div align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,java" />
-</div>
-
-### Databases
-<div align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</div>
-
-### Machine Learning
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,sklearn,pytorch" />
+**Languages**
 <br/>
-<img src="https://img.shields.io/badge/Logistic_Regression-3B82F6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Matplotlib-8B5CF6?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql&theme=dark"/>
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,html,css,js&theme=dark"/>
+
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,java&theme=dark"/>
+
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"/>
+
+**Machine Learning**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,sklearn&theme=dark"/>
+<img src="https://img.shields.io/badge/Logistic_Regression-0D1117?style=for-the-badge&logoColor=3B82F6&labelColor=0D1117&color=161B22"/>
+<img src="https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge&logo=plotly&logoColor=8B5CF6&labelColor=0D1117"/>
+
+**Data Analytics**
+<br/>
+<img src="https://img.shields.io/badge/Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Tableau-0D1117?style=for-the-badge&logo=tableau&logoColor=E97627&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Regression_Analysis-0D1117?style=for-the-badge&logoColor=06B6D4&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Time--Series_Analysis-0D1117?style=for-the-badge&logoColor=3B82F6&labelColor=0D1117"/>
+
+**Cloud & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,git,github,vscode&theme=dark"/>
+
 </div>
 
-### Data Analytics
-<div align="center">
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/Statistical_Analysis-06B6D4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Regression_Analysis-3B82F6?style=for-the-badge" />
-</div>
-
-### Cloud & Tools
-<div align="center">
-<img src="https://skillicons.dev/icons?i=aws,git,github,vscode" />
-</div>
-
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 💡 Professional Skills
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Problem_Solving-3B82F6?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Critical_Thinking-8B5CF6?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Time_Management-06B6D4?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Decision_Making-3B82F6?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Problem_Solving-161B22?style=for-the-badge&logoColor=3B82F6&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Critical_Thinking-161B22?style=for-the-badge&logoColor=8B5CF6&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Time_Management-161B22?style=for-the-badge&logoColor=06B6D4&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Decision_Making-161B22?style=for-the-badge&logoColor=3B82F6&labelColor=0D1117"/>
 <br/>
-<img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OOP-06B6D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REST_APIs-3B82F6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-161B22?style=for-the-badge&logoColor=8B5CF6&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Object--Oriented_Programming-161B22?style=for-the-badge&logoColor=06B6D4&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/REST_API_Design-161B22?style=for-the-badge&logoColor=3B82F6&labelColor=0D1117"/>
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 🚀 Featured Projects
 
-<br/>
-
 <table width="100%">
 <tr>
-<td width="35%" valign="top">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/project-knowledge-hub.png" width="100%" alt="Smart Knowledge Hub preview"/>
-</td>
-<td width="65%" valign="top">
+<td width="100%">
 
 ### 📚 Smart Knowledge Hub
+`Jan 2025 – Feb 2025`
 
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_API-3B82F6?style=flat-square"/>
 
-A full-stack digital library platform engineered to replace slow, unpersonalized traditional catalog systems with a fast, intelligent reading experience.
+**Overview:** A full-stack digital library platform built to replace slow, unpersonalized catalog systems with a fast, intelligent reading experience — complete with authentication, search, and personalized dashboards.
 
-**Highlights**
-- Architected a scalable React + Spring Boot application with secure authentication and role-based access
-- Modeled MongoDB schemas to efficiently manage books, users, and live reading progress
-- Built advanced search and personalized dashboards that surface relevant content per user
-- Delivered a clean, accessible UI that measurably improved engagement and content discovery
+**Key Features**
+- 🔐 Secure user authentication with role-based session handling
+- 🔍 Advanced search across a MongoDB-modeled book catalog
+- 📈 Personalized dashboards with a live reading tracker
+- 🎨 Clean, accessible UI that improved user engagement and content discovery
 
-<a href="https://github.com/YOUR_USERNAME/smart-knowledge-hub"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://PORTFOLIO_URL"><img src="https://img.shields.io/badge/Live_Demo-3B82F6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/slmanasjagannath/smart-knowledge-hub"><img src="https://img.shields.io/badge/View_Repository-161B22?style=for-the-badge&logo=github&logoColor=3B82F6"/></a>
+<a href="https://slmanasjagannath.github.io/smart-knowledge-hub"><img src="https://img.shields.io/badge/Live_Demo-161B22?style=for-the-badge&logo=vercel&logoColor=8B5CF6"/></a>
 
 </td>
 </tr>
@@ -166,28 +165,26 @@ A full-stack digital library platform engineered to replace slow, unpersonalized
 
 <table width="100%">
 <tr>
-<td width="35%" valign="top">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/project-expense-navigator.png" width="100%" alt="Expense Navigator preview"/>
-</td>
-<td width="65%" valign="top">
+<td width="100%">
 
 ### 💰 Expense Navigator
+`Mar 2024 – May 2024`
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 
-A secure personal finance tracker built to give users real-time visibility into income, spending, and financial habits.
+**Overview:** A secure personal finance tracker giving users real-time visibility into income, expenses, and spending behavior, replacing manual, error-prone tracking with automated insight.
 
-**Highlights**
-- Built a full CRUD transaction system with authenticated user sessions using the MERN-style stack
-- Designed interactive dashboards and charts to visualize spending trends in real time
-- Enabled data-driven budgeting decisions through clear, at-a-glance financial insights
-- Focused on responsive UX for effortless daily expense logging
+**Key Features**
+- 🔐 Authenticated CRUD workflow for full transaction management
+- 📊 Interactive dashboards and charts visualizing spending patterns in real time
+- 💡 Trend detection that supports smarter, faster budgeting decisions
+- ⚡ Responsive design built for effortless daily logging
 
-<a href="https://github.com/YOUR_USERNAME/expense-navigator"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://PORTFOLIO_URL"><img src="https://img.shields.io/badge/Live_Demo-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/slmanasjagannath/expense-navigator"><img src="https://img.shields.io/badge/View_Repository-161B22?style=for-the-badge&logo=github&logoColor=3B82F6"/></a>
+<a href="https://slmanasjagannath.github.io/expense-navigator"><img src="https://img.shields.io/badge/Live_Demo-161B22?style=for-the-badge&logo=vercel&logoColor=8B5CF6"/></a>
 
 </td>
 </tr>
@@ -197,12 +194,10 @@ A secure personal finance tracker built to give users real-time visibility into 
 
 <table width="100%">
 <tr>
-<td width="35%" valign="top">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/project-heart-disease.png" width="100%" alt="Heart Disease Prediction System preview"/>
-</td>
-<td width="65%" valign="top">
+<td width="100%">
 
 ### ❤️ Heart Disease Prediction System
+`Aug 2024 – Oct 2024`
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Logistic_Regression-3B82F6?style=flat-square"/>
@@ -210,22 +205,22 @@ A secure personal finance tracker built to give users real-time visibility into 
 <img src="https://img.shields.io/badge/Matplotlib-06B6D4?style=flat-square"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
-A machine learning powered diagnostic assistant that predicts heart disease risk from patient health data, aimed at supporting early clinical decision-making.
+**Overview:** A machine learning diagnostic assistant that predicts heart disease risk from patient health data, built to support faster, more informed clinical decisions.
 
-**Highlights**
-- Analyzed medical datasets to isolate the key parameters influencing cardiac risk
-- Trained a Logistic Regression model delivering reliable classification performance
-- Developed a real-time Tkinter GUI for clinicians to input and review patient data instantly
-- Persisted patient records in MySQL and visualized outcomes with Matplotlib for clearer analysis
+**Key Features**
+- 🧬 Analyzed medical datasets to isolate the parameters most predictive of cardiac risk
+- 🤖 Logistic Regression model delivering reliable, real-world classification performance
+- 🖥️ Real-time Tkinter GUI for instant patient data entry and prediction
+- 💾 Persistent MySQL storage with Matplotlib visualizations for clearer diagnostic review
 
-<a href="https://github.com/YOUR_USERNAME/heart-disease-prediction"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://PORTFOLIO_URL"><img src="https://img.shields.io/badge/Live_Demo-06B6D4?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/slmanasjagannath/heart-disease-prediction"><img src="https://img.shields.io/badge/View_Repository-161B22?style=for-the-badge&logo=github&logoColor=3B82F6"/></a>
+<a href="https://slmanasjagannath.github.io/heart-disease-prediction"><img src="https://img.shields.io/badge/Live_Demo-161B22?style=for-the-badge&logo=vercel&logoColor=8B5CF6"/></a>
 
 </td>
 </tr>
 </table>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 🏆 Achievements
 
@@ -233,30 +228,31 @@ A machine learning powered diagnostic assistant that predicts heart disease risk
 
 | 🎖️ Achievement | Detail |
 |---|---|
-| 🎓 Academic Excellence | CGPA **8.67** in B.Tech Computer Science (Data Science) |
-| 📈 Intermediate Topper | Scored **95%** in MPC at Krishnaveni Jr College |
-| 💯 Perfect Foundation | CGPA **10/10** in Secondary School (Class X) |
-| 🛠️ Builder | Shipped **3 independent full-stack & ML projects** end-to-end |
+| 🎓 Academic Excellence | **8.67 CGPA** — B.Tech, Computer Science (Data Science), Malla Reddy University |
+| 📈 Intermediate Topper | **95%** in MPC — Krishnaveni Jr College |
+| 💯 Perfect Foundation | **10/10 CGPA** — Secondary School (Class X), Gitanjali Vidhyaniketan |
+| 🛠️ Shipped Builder | **3 independent full-stack & ML projects**, each taken from problem analysis to deployment |
+| 📜 Certified Specialist | **4 completed specializations** across Python, algorithms, and AI fundamentals |
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 📜 Certifications
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Introduction_to_Scripting_in_Python-Rice_University-3B82F6?style=for-the-badge&logo=coursera&logoColor=white"/>
+🐍 **Introduction to Scripting in Python Specialization** — Rice University
 <br/>
-<img src="https://img.shields.io/badge/Python_3_Programming-University_of_Michigan-8B5CF6?style=for-the-badge&logo=coursera&logoColor=white"/>
+🐍 **Python 3 Programming Specialization** — University of Michigan
 <br/>
-<img src="https://img.shields.io/badge/Algorithms_%26_Data_Collection-University_of_Colorado-06B6D4?style=for-the-badge&logo=coursera&logoColor=white"/>
+🧮 **Algorithms, Data Collection, and Starting to Code** — University of Colorado
 <br/>
-<img src="https://img.shields.io/badge/AI_Fundamentals-IBM_SkillsBuild-3B82F6?style=for-the-badge&logo=ibm&logoColor=white"/>
+🤖 **Artificial Intelligence Fundamentals** — IBM SkillsBuild
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 🎓 Education Timeline
 
@@ -264,8 +260,7 @@ A machine learning powered diagnostic assistant that predicts heart disease risk
 2022 ─────────────────────────────────────────────────► 2026
  │                                                        │
  ●  Malla Reddy University, Hyderabad                     ●
-    B.Tech, Computer Science (Data Science)
-    CGPA: 8.67
+    B.Tech, Computer Science (Data Science) — CGPA: 8.67
     Coursework: DSA · OOP · Databases · ML · Statistics · Web Dev
 
 2020 ───────────────────► 2022
@@ -276,43 +271,41 @@ A machine learning powered diagnostic assistant that predicts heart disease risk
 2019 ──────► 2020
  │            │
  ●  Gitanjali Vidhyaniketan, Khammam
-    Secondary School (Class X) — CGPA: 10
+    Secondary School (Class X) — CGPA: 10/10
 ```
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 📊 GitHub Dashboard
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=8B5CF6&text_color=ffffff&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=ffffff" width="48%"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=8B5CF6&fire=06B6D4&currStreakLabel=3B82F6" width="65%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=slmanasjagannath&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=8B5CF6&text_color=c9d1d9&count_private=true&include_all_commits=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slmanasjagannath&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=c9d1d9&langs_count=8" width="48%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=8B5CF6&point=06B6D4" width="90%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=slmanasjagannath&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=8B5CF6&fire=06B6D4&currStreakLabel=06B6D4" width="65%"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=slmanasjagannath&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=8B5CF6&point=06B6D4&area=true" width="92%"/>
 
 <br/><br/>
 
-<img src="https://ghchart.rshah.org/3B82F6/YOUR_USERNAME" width="90%" alt="contribution calendar"/>
+<img src="https://github-profile-trophy.vercel.app/?username=slmanasjagannath&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&row=2" width="92%"/>
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="90%" alt="snake animation"/>
+<img src="https://ghchart.rshah.org/3B82F6/slmanasjagannath" width="92%" alt="contribution calendar"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/slmanasjagannath/slmanasjagannath/output/github-contribution-grid-snake-dark.svg" width="92%" alt="snake animation"/>
 
 </div>
 
-<sub align="center">The snake animation requires a one-time GitHub Actions workflow (`platane/snk`) in your profile repo — see the setup note at the bottom of this file.</sub>
-
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 💬 Developer Quote
 
@@ -320,80 +313,70 @@ A machine learning powered diagnostic assistant that predicts heart disease risk
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 🎲 Fun Facts
 
 - 🧩 I think in **data models** before I think in UI components
-- ☕ Debugging fuel: coffee first, `console.log` second
-- 📈 I'd rather build a dashboard than write a status report
-- 🌙 Some of my best commits happen after midnight
-- 🎯 I read certification syllabi the way others read novels
+- ☕ Debugging fuel: coffee first, `console.log()` second
+- 📈 I'd rather build a live dashboard than write a status report
+- 🌙 Some of my best commits happen after midnight, right before a deadline
+- 🎯 I read certification syllabi the way most people read novels
+- 🧠 Logistic Regression was my gateway drug into machine learning
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 📘 Currently Learning
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Cloud_Architecture-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_Cloud_Architecture-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Advanced_Machine_Learning-3B82F6?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/System_Design-8B5CF6?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/CI%2FCD_Pipelines-06B6D4?style=for-the-badge"/>
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 🎯 2026 Goals
 
 - [ ] Land a Software Engineer / Data Analyst role in a product-driven company
 - [ ] Ship a production ML model with a live monitoring dashboard
 - [ ] Contribute to 3+ meaningful open-source repositories
-- [ ] Earn an AWS Cloud certification
-- [ ] Complete B.Tech with distinction (CGPA 9.0+)
+- [ ] Earn an AWS Cloud Practitioner (or Associate) certification
+- [ ] Graduate B.Tech with distinction — target CGPA 9.0+
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 🤝 Connect With Me
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/slmanasjagannath">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-3B82F6?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:slmanasjagannath12@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://github.com/slmanasjagannath">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 <div align="center">
 
 ### 👀 Profile Visitors
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=06B6D4" alt="profile visitor counter"/>
+<img src="https://komarev.com/ghpvc/?username=slmanasjagannath&style=flat-square&color=06B6D4&labelColor=0D1117" alt="profile visitor counter"/>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:8B5CF6,100:3B82F6&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:8B5CF6,100:3B82F6&height=160&section=footer" width="100%"/>
 
 **⭐ Thanks for stopping by — let's build something great together!**
 
 </div>
-
-<!--
-  SETUP NOTES (delete this comment block once configured):
-  1. Replace every YOUR_USERNAME, YOUR_LINKEDIN, YOUR_EMAIL, and PORTFOLIO_URL placeholder.
-  2. Create this README as a repo named exactly YOUR_USERNAME (a GitHub profile README repo).
-  3. Add real images/GIFs under an `assets/` folder in that repo and update the paths above.
-  4. For the snake animation, add the `platane/snk` GitHub Action to generate
-     `github-contribution-grid-snake-dark.svg` on an `output` branch.
-  5. All stats widgets (github-readme-stats, streak-stats, activity-graph, trophies,
-     ghchart) work automatically once YOUR_USERNAME is set — no server needed.
--->
