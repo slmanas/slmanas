@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,25:3B82F6,60:8B5CF6,100:06B6D4&height=300&section=header&text=Sita%20Leela%20Manas%20Jagannath&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20Full-Stack%20Builder&descAlignY=54&descSize=19" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,25:3B82F6,60:8B5CF6,100:06B6D4&height=300&section=header&text=Sita%20Leela%20Manas%20Jagannath&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=34&desc=Software%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20Full-Stack%20Builder&descAlignY=54&descSize=18" width="100%"/>
 
 <a href="https://github.com/slmanasjagannath">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=25&duration=2800&pause=900&color=8B5CF6&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=920&height=100&lines=Engineering+full-stack+apps+with+React+%2B+Spring+Boot+%F0%9F%9A%80;Building+ML+models+that+turn+data+into+decisions+%F0%9F%A7%A0;Python+%C2%B7+Java+%C2%B7+C%2B%2B+%C2%B7+SQL+%C2%B7+React+%C2%B7+Node.js;Open+to+Software+Engineer+%2F+Data+Analyst+roles+%F0%9F%93%A9" alt="Typing SVG"/>
@@ -9,26 +9,25 @@
 <br/>
 
 <img src="https://img.shields.io/badge/-Hyderabad%2C%20India-0D1117?style=for-the-badge&logo=googlemaps&logoColor=06B6D4&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/-Graduating%202026-0D1117?style=for-the-badge&logo=graduation-cap&logoColor=8B5CF6&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/-CGPA%208.67-0D1117?style=for-the-badge&logo=star&logoColor=3B82F6&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/-Graduating%202026-0D1117?style=for-the-badge&logo=googleclassroom&logoColor=8B5CF6&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/-CGPA%208.67-0D1117?style=for-the-badge&logo=starship&logoColor=3B82F6&labelColor=0D1117"/>
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=slmanasjagannath&style=for-the-badge&color=8b5cf6&labelColor=0D1117&label=PROFILE+VIEWS" alt="visitor counter"/>
 
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-7b7bfd5c-f427-4b57-9db8-c1eb1f27fce9.gif" width="420">
-</div>
-
 <br/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle">
 
 ## 🧠 About Me
-
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
 
 ```yaml
 developer:
@@ -54,11 +53,22 @@ developer:
 - 🧩 Deep, practical grounding in **Data Structures, Algorithms & OOP**
 - 🌱 Currently deepening skills in **AWS**, **advanced ML pipelines**, and **system design**
 - 💬 Ask me about **React**, **Spring Boot**, **REST APIs**, **MongoDB**, or **regression models**
-- ⚡ Believer in clean code, clean UI, and clean data — in that order of visibility, never priority
+- ⚡ Clean code, clean UI, clean data — always in that order of build, never of priority
 
-<br clear="right"/>
+</td>
+<td width="38%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-7b7bfd5c-f427-4b57-9db8-c1eb1f27fce9.gif" width="100%"/>
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="90%"/>
+
+</td>
+</tr>
+</table>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
 
 ## 🎯 Current Focus
 
@@ -72,7 +82,7 @@ developer:
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
 
 ## 🛠️ Tech Stack
 
@@ -80,40 +90,40 @@ developer:
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql&theme=dark&perline=4"/>
 
 **Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,html,css,js&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,html,css,js&theme=dark&perline=4"/>
 
 **Backend**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,java&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,java&theme=dark&perline=4"/>
 
 **Databases**
 <br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark&perline=4"/>
 
 **Machine Learning**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,sklearn&theme=dark"/>
-<img src="https://img.shields.io/badge/Logistic_Regression-0D1117?style=for-the-badge&logoColor=3B82F6&labelColor=0D1117&color=161B22"/>
-<img src="https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge&logo=plotly&logoColor=8B5CF6&labelColor=0D1117"/>
+<img src="https://skillicons.dev/icons?i=python,sklearn&theme=dark&perline=4"/>
+<img src="https://img.shields.io/badge/Logistic_Regression-161B22?style=for-the-badge&logoColor=3B82F6&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Matplotlib-161B22?style=for-the-badge&logo=plotly&logoColor=8B5CF6&labelColor=0D1117"/>
 
 **Data Analytics**
 <br/>
-<img src="https://img.shields.io/badge/Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Tableau-0D1117?style=for-the-badge&logo=tableau&logoColor=E97627&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Regression_Analysis-0D1117?style=for-the-badge&logoColor=06B6D4&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Time--Series_Analysis-0D1117?style=for-the-badge&logoColor=3B82F6&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Power_BI-161B22?style=for-the-badge&logo=powerbi&logoColor=F2C811&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Tableau-161B22?style=for-the-badge&logo=tableau&logoColor=E97627&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Regression_Analysis-161B22?style=for-the-badge&logoColor=06B6D4&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Time--Series_Analysis-161B22?style=for-the-badge&logoColor=3B82F6&labelColor=0D1117"/>
 
 **Cloud & Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=aws,git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=aws,git,github,vscode&theme=dark&perline=4"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
 
 ## 💡 Professional Skills
 
@@ -130,7 +140,7 @@ developer:
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
 
 ## 🚀 Featured Projects
 
@@ -220,23 +230,30 @@ developer:
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
 
 ## 🏆 Achievements
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="70%" valign="middle">
 
 | 🎖️ Achievement | Detail |
 |---|---|
-| 🎓 Academic Excellence | **8.67 CGPA** — B.Tech, Computer Science (Data Science), Malla Reddy University |
+| 🎓 Academic Excellence | **8.67 CGPA** — B.Tech, CS (Data Science), Malla Reddy University |
 | 📈 Intermediate Topper | **95%** in MPC — Krishnaveni Jr College |
-| 💯 Perfect Foundation | **10/10 CGPA** — Secondary School (Class X), Gitanjali Vidhyaniketan |
-| 🛠️ Shipped Builder | **3 independent full-stack & ML projects**, each taken from problem analysis to deployment |
-| 📜 Certified Specialist | **4 completed specializations** across Python, algorithms, and AI fundamentals |
+| 💯 Perfect Foundation | **10/10 CGPA** — Class X, Gitanjali Vidhyaniketan |
+| 🛠️ Shipped Builder | **3 independent full-stack & ML projects**, concept to deployment |
+| 📜 Certified Specialist | **4 completed specializations** across Python, algorithms & AI |
 
-</div>
+</td>
+<td width="30%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938a92c4-16f4-411d-97b7-42d759f5cf13.gif" width="100%"/>
+</td>
+</tr>
+</table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
 
 ## 📜 Certifications
 
@@ -252,7 +269,7 @@ developer:
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
 
 ## 🎓 Education Timeline
 
@@ -274,7 +291,7 @@ developer:
     Secondary School (Class X) — CGPA: 10/10
 ```
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
 
 ## 📊 GitHub Dashboard
 
@@ -297,15 +314,22 @@ developer:
 
 <br/><br/>
 
+<b>Contribution Calendar</b><br/>
 <img src="https://ghchart.rshah.org/3B82F6/slmanasjagannath" width="92%" alt="contribution calendar"/>
 
 <br/><br/>
 
+<b>3D Contribution Calendar</b><br/>
+<img src="https://raw.githubusercontent.com/slmanasjagannath/slmanasjagannath/master/profile-3d-contrib/profile-night-rainbow.svg" width="92%" alt="3D contribution graph"/>
+
+<br/><br/>
+
+<b>Snake Eating My Contributions</b><br/>
 <img src="https://raw.githubusercontent.com/slmanasjagannath/slmanasjagannath/output/github-contribution-grid-snake-dark.svg" width="92%" alt="snake animation"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
 
 ## 💬 Developer Quote
 
@@ -313,7 +337,7 @@ developer:
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
 
 ## 🎲 Fun Facts
 
@@ -324,7 +348,7 @@ developer:
 - 🎯 I read certification syllabi the way most people read novels
 - 🧠 Logistic Regression was my gateway drug into machine learning
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
 
 ## 📘 Currently Learning
 
@@ -337,7 +361,7 @@ developer:
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
 
 ## 🎯 2026 Goals
 
@@ -347,7 +371,7 @@ developer:
 - [ ] Earn an AWS Cloud Practitioner (or Associate) certification
 - [ ] Graduate B.Tech with distinction — target CGPA 9.0+
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
 
 ## 🤝 Connect With Me
 
@@ -365,18 +389,8 @@ developer:
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
 <div align="center">
-
-### 👀 Profile Visitors
-
-<img src="https://komarev.com/ghpvc/?username=slmanasjagannath&style=flat-square&color=06B6D4&labelColor=0D1117" alt="profile visitor counter"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:8B5CF6,100:3B82F6&height=160&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:8B5CF6,100:3B82F6&height=160&section=footer&animation=twinkling" width="100%"/>
 
 **⭐ Thanks for stopping by — let's build something great together!**
-
 </div>
