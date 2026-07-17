@@ -144,7 +144,7 @@ Robust backend server powering scalable applications.
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ Thanks  you for visiting my profile!
 
 *"Code. Learn. Build. Repeat."*
 
